@@ -1,1 +1,2 @@
-echo "hello socilaAppp"
+
+console.log("hello app")
